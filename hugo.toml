@@ -8,3 +8,6 @@ theme = 'hugo-PaperMod'
   Content = """
 关注领域：科技、金融，提供有价值信息；笔者：证券分析师、软件设计师、会计师；微信公众号：AlphaFree
 """
+
+[minify]
+  disableJSON = true
