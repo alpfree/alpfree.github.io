@@ -1,0 +1,9 @@
+/* 让所有 H2, H3 等标题变为 蓝色 (可以换成 hex 颜色代码) */
+.post-content h2, .post-content h3 {
+    color: #B22222 !important; /* 这里的颜色换成你喜欢的 */
+}
+
+/* 让所有加粗文字变为 橙红色 */
+.post-content strong {
+    color: #2b79ff !important;
+}

@@ -1,0 +1,44 @@
+/* --- 核心逻辑：宽屏下将目录移至右侧悬浮 --- */
+@media screen and (min-width: 1300px) {
+    .toc {
+        display: block;
+        position: fixed;
+        /* 这里的 50% 是屏幕中间，+ 420px 是因为文章通常宽 800px 左右(一半是400)
+           多加 20px 让它和文章保持一点距离 */
+        left: calc(50% + 420px); 
+        top: 150px;              /* 距离页面顶部的高度，可自行调整 */
+        width: 250px;            /* 目录的最大宽度 */
+        
+        /* 视觉样式：去掉了背景框，看起来更像原生导航 */
+        background: none !important; 
+        border: none !important;
+        box-shadow: none !important;
+        
+        /* 字体调整 */
+        font-size: 14px;
+        line-height: 1.6;
+        
+        /* 防止目录太长溢出 */
+        max-height: 70vh;
+        overflow-y: auto;
+        
+        /* 确保不遮挡其他层级 */
+        z-index: 99;
+    }
+
+    /* 隐藏 "Table of Contents" 这个大标题，或者把它改小 */
+    .toc details summary {
+        margin-bottom: 10px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    /* 针对暗黑模式稍微调淡一点颜色，不刺眼 */
+    :root[class="dark"] .toc {
+        color: #a5a5a5; 
+    }
+}
+
+/* --- 优化：窄屏/手机端 --- */
+/* 如果你非常讨厌手机上看文章开头也有目录，可以取消下面这行的注释来彻底隐藏它 */
+@media screen and (max-width: 1299px) { .toc { display: none; } }
