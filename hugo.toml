@@ -11,3 +11,8 @@ theme = 'hugo-PaperMod'
 
 [minify]
   disableJSON = true
+
+[params.analytics.google]
+  # Google Analytics 4 Measurement ID
+  GA4 = "G-KGCGBXF5P6" 
+  
