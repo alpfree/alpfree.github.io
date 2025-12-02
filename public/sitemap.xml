@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://alpfree.github.io/</loc><lastmod>2025-11-25T15:06:46+08:00</lastmod></url><url><loc>https://alpfree.github.io/post/</loc><lastmod>2025-11-25T15:06:46+08:00</lastmod></url><url><loc>https://alpfree.github.io/post/%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82%E5%8F%91%E8%A1%8C%E5%85%AC%E5%91%8A%E8%A7%A3%E6%9E%90/</loc><lastmod>2025-11-25T15:06:46+08:00</lastmod></url><url><loc>https://alpfree.github.io/categories/</loc></url><url><loc>https://alpfree.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-02T17:06:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-12-02T17:06:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82%E5%8F%91%E8%A1%8C%E5%85%AC%E5%91%8A%E8%A7%A3%E6%9E%90/</loc>
+    <lastmod>2025-11-25T15:06:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
