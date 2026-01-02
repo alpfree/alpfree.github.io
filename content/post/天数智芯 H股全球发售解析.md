@@ -4,6 +4,11 @@ date = '2025-12-30T14:06:46+08:00'
 draft = false
 ShowToc = true
 TocOpen = true
+summary = '天数智芯港股上市：首家通用GPU训练芯片量产者，深度评估其软硬一体集成方案与持续亏损压力。'
+description = '解析天数智芯7nm工艺天垓/智铠系列芯片、核心软件栈研发及在复杂的国际环境下的供应链韧性。'
+keywords = ["天数智芯", "9903.HK", "通用GPU", "GPGPU", "AI算力", "港股IPO"]
+tags = ["天数智芯", "AI算力", "GPU", "港股IPO", "招股书解析"]
+categories = ["港股解析", "电子半导体"]
 +++
 
 ### **免责声明**

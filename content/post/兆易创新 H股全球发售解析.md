@@ -4,6 +4,11 @@ date = '2025-12-31T14:06:46+08:00'
 draft = false
 ShowToc = true
 TocOpen = true
+summary = '兆易创新港股IPO：存储与MCU双龙头，深度解析其全球市场地位、行业周期波动及全球扩张战略。'
+description = '详尽分析兆易创新招股书，包含NOR Flash与DRAM业务逻辑、研发团队实力及新加坡国际总部规划。'
+keywords = ["兆易创新", "3986.HK", "存储芯片", "MCU", "港股IPO", "集成电路"]
+tags = ["兆易创新", "存储芯片", "MCU", "港股IPO", "招股书解析"]
+categories = ["港股解析", "电子半导体"]
 +++
 
 ### **免责声明**

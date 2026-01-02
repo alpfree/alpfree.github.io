@@ -2,6 +2,7 @@ baseURL = 'https://alpfree.github.io/'
 languageCode = 'en-us'
 title = 'AlphaFree'
 theme = 'hugo-PaperMod'
+enableRobotsTXT = true
 buildFuture = true
 
 [params.homeInfoParams]

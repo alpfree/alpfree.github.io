@@ -4,6 +4,11 @@ date = '2025-12-09T14:06:46+08:00'
 draft = false
 ShowToc = true
 TocOpen = true
+summary = 'HashKey港股IPO：深度解析业务架构、财务数据及核心投资风险。'
+description = '本文详尽分析HashKey招股书，包含交易促成、链上服务及资管表现。'
+keywords = ["HashKey", "3887.HK", "数字资产", "港股IPO", "区块链"]
+tags = ["HashKey", "港股IPO", "数字资产", "招股书解析", "区块链"]
+categories = ["港股解析", "数字金融"]
 +++
 
 ### **免责声明**

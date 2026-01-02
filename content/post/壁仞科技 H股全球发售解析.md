@@ -4,6 +4,11 @@ date = '2025-12-22T14:06:46+08:00'
 draft = false
 ShowToc = true
 TocOpen = true
+summary = '壁仞科技港股上市：国产GPGPU领军者，解析其算力解决方案、研发强度及实体清单下的供应链对策。'
+description = '深度剖析壁仞科技招股书，包含BR系列芯片性能、BIRENSUPA软件平台及未来智能化硬件布局。'
+keywords = ["壁仞科技", "6082.HK", "GPGPU", "AI芯片", "算力集群", "港股IPO"]
+tags = ["壁仞科技", "AI芯片", "半导体", "港股IPO", "招股书解析"]
+categories = ["港股解析", "电子半导体"]
 +++
 
 ### **免责声明**

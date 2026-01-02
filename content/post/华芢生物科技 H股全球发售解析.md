@@ -1,9 +1,14 @@
 +++
 title = '华芢生物科技 H股全球发售解析'
 date = '2025-12-14T14:06:46+08:00'
-draft = true
+draft = false
 ShowToc = true
 TocOpen = true
+summary = '华芢生物港股IPO：聚焦PDGF伤口愈合药物，解析二度烧烫伤与糖足治疗管线的临床潜力与风险。'
+description = '拆解华芢生物招股书，分析核心产品Pro-101、研发团队实力、财务亏损现状及募投项目规划。'
+keywords = ["华芢生物", "2396.HK", "PDGF", "伤口愈合", "港股IPO", "生物医药"]
+tags = ["华芢生物", "生物医药", "港股IPO", "招股书解析", "再生医学"]
+categories = ["港股解析", "生物医药"]
 +++
 
 ### **免责声明**

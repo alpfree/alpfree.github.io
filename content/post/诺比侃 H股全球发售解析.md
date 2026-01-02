@@ -1,9 +1,14 @@
 +++
 title = '诺比侃 H股全球发售解析'
 date = '2025-12-15T11:06:46+08:00'
-draft = true
+draft = false
 ShowToc = true
 TocOpen = true
+summary = '诺比侃港股IPO：轨道交通AI监测领军者，解析NBK-INTARI平台优势、现金流转正趋势及美出口管制影响。'
+description = '深度拆解诺比侃招股书，包含4C产品市占率、能源解决方案增长极、应收账款由于天数激增风险及成都总部项目。'
+keywords = ["诺比侃", "2635.HK", "AI+交通", "轨道交通监测", "港股IPO", "人工智能"]
+tags = ["诺比侃", "人工智能", "轨道交通", "港股IPO", "招股书解析"]
+categories = ["港股解析", "人工智能"]
 +++
 
 ### **免责声明**

@@ -4,6 +4,11 @@ date = '2025-12-31T14:06:46+08:00'
 draft = false
 ShowToc = true
 TocOpen = true
+summary = 'MiniMax港股上市：深度解析大模型技术架构、高额研发投入及版权诉讼风险。'
+description = '本文详尽分析MiniMax招股书，包含MoE架构大模型、AI原生产品表现及全球化扩张策略。'
+keywords = ["MiniMax", "0100.HK", "大模型", "人工智能", "海螺AI", "港股IPO"]
+tags = ["MiniMax", "大模型", "人工智能", "港股IPO", "招股书解析"]
+categories = ["港股解析", "人工智能"]
 +++
 
 ### **免责声明**

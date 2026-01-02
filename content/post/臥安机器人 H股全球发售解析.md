@@ -4,6 +4,11 @@ date = '2025-12-21T14:06:46+08:00'
 draft = false
 ShowToc = true
 TocOpen = true
+summary = '卧安机器人港股IPO：全球家庭系统机器人第一，解析其在日本市场的垄断优势及对亚马逊渠道的高度依赖。'
+description = '分析卧安机器人（SwitchBot）产品线、AI视觉控制技术、扭亏为盈财务现状及面向人形机器人的研发规划。'
+keywords = ["卧安机器人", "6600.HK", "SwitchBot", "家庭机器人", "智能家居", "港股IPO"]
+tags = ["卧安机器人", "智能家居", "机器人", "港股IPO", "招股书解析"]
+categories = ["港股解析", "人工智能"]
 +++
 
 ### **免责声明**
